@@ -12,6 +12,13 @@ A modern, real-time **Police Mobile Data Terminal (MDT) system** designed to enh
 - **📝 Reports Section** – Allows officers to file, review, and manage incident reports.  
 - **📂 Case Management & Charge Sheets** – Streamlines legal procedures for efficient case handling.  
 
+### **Dependencies & Technologies Used:**  
+- **Database:** MySQL (using **MySQL Connector/J**) for data management.  
+- **Backend:** Java with JDBC for database interactions.  
+- **Frontend:** Java Swing/JavaFX for UI development.  
+- **Authentication:** Usernames and passwords are validated directly through the database.  
+- **Version Control:** GitHub for project tracking and collaboration.  
+
 ### **Use Cases & Future Refinements:**  
 - Law enforcement agencies can customize and refine the system based on specific operational needs.  
 - Additional features such as **AI-based crime pattern analysis**, **real-time GPS tracking**, or **automated report generation** can be integrated.  
